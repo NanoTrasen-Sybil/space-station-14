@@ -374,7 +374,6 @@
   sprites:
   - sprite: Mobs/Customization/reptilian_parts.rsi
     state: body_fin
-
 - type: marking
   id: LizardVisageTribal
   bodyPart: HeadTop
