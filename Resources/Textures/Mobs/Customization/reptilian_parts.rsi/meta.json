@@ -765,10 +765,6 @@
       "name": "horns_floppy_kobold_ears",
       "directions": 4
     },
-	  {
-      "name": "horns_goblin_ears",
-      "directions": 4
-    },
     {
       "name": "body_underbelly",
       "directions": 4
@@ -804,6 +800,10 @@
 	 {
         "name": "visage_tribal",
         "directions": 4
+    },
+		  {
+      "name": "horns_goblin_ears",
+      "directions": 4
     }
   ]
 }
